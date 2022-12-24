@@ -2,7 +2,15 @@ import Layout from './components/layout';
 
 function App() {
   return (
-  <Layout/>
+  
+  // <div>
+      
+  //     <Routes>
+  //       <Route path= "/" element = {<Layout/>}/>
+        
+  //     </Routes>
+  //     </div>
+      <Layout/>
   );
 }
 
