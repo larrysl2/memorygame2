@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memorygame2/static/css/main.98bf3455.css",
-    "main.js": "/memorygame2/static/js/main.d015d4fd.js",
+    "main.js": "/memorygame2/static/js/main.c02366d2.js",
     "static/media/neymar.jpg": "/memorygame2/static/media/neymar.ccbd20c33d9b2f9bfab1.jpg",
     "static/media/LM.jpeg": "/memorygame2/static/media/LM.6609df916dbea54be47e.jpeg",
     "static/media/MS.jpeg": "/memorygame2/static/media/MS.fd050c61ad37c4ce2056.jpeg",
@@ -12,10 +12,10 @@
     "static/media/ds.jpeg": "/memorygame2/static/media/ds.558f0e83eb470afd7f00.jpeg",
     "index.html": "/memorygame2/index.html",
     "main.98bf3455.css.map": "/memorygame2/static/css/main.98bf3455.css.map",
-    "main.d015d4fd.js.map": "/memorygame2/static/js/main.d015d4fd.js.map"
+    "main.c02366d2.js.map": "/memorygame2/static/js/main.c02366d2.js.map"
   },
   "entrypoints": [
     "static/css/main.98bf3455.css",
-    "static/js/main.d015d4fd.js"
+    "static/js/main.c02366d2.js"
   ]
 }
