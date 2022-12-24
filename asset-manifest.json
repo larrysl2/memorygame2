@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/memorygamev2/static/css/main.98bf3455.css",
+    "main.js": "/memorygamev2/static/js/main.36a79492.js",
+    "static/media/neymar.jpg": "/memorygamev2/static/media/neymar.ccbd20c33d9b2f9bfab1.jpg",
+    "static/media/LM.jpeg": "/memorygamev2/static/media/LM.6609df916dbea54be47e.jpeg",
+    "static/media/MS.jpeg": "/memorygamev2/static/media/MS.fd050c61ad37c4ce2056.jpeg",
+    "static/media/PP.jpeg": "/memorygamev2/static/media/PP.e08f1cf79f7e21a18b3d.jpeg",
+    "static/media/eH.jpg": "/memorygamev2/static/media/eH.eca33b52030bc5d7d1af.jpg",
+    "static/media/KDB.jpeg": "/memorygamev2/static/media/KDB.ecf09157ddfeb896e900.jpeg",
+    "static/media/cr.jpeg": "/memorygamev2/static/media/cr.dbfebdc6d356abc926bd.jpeg",
+    "static/media/ds.jpeg": "/memorygamev2/static/media/ds.558f0e83eb470afd7f00.jpeg",
+    "index.html": "/memorygamev2/index.html",
+    "main.98bf3455.css.map": "/memorygamev2/static/css/main.98bf3455.css.map",
+    "main.36a79492.js.map": "/memorygamev2/static/js/main.36a79492.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98bf3455.css",
+    "static/js/main.36a79492.js"
+  ]
+}
